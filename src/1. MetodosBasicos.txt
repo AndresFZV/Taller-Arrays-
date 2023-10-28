@@ -1,0 +1,27 @@
+Andres Felipe Zambrano Velasquez // Kevin Santiago Plaza Lopez
+
+¿Qué son los métodos en JAVA?
+
+En Java, los métodos son bloques de código que realizan tareas específicas y pueden ser 
+invocados o llamados desde otros lugares de un programa. En Java, existen varios métodos,
+como los siguientes:
+
+1. .add(): Este método se utiliza para agregar un elemento a una colección, ya sea Arrays 
+o ArrayList.
+
+2. .remove(): Al contrario del método .add(), el método .remove() se utiliza, como su 
+propio nombre indica, para remover o eliminar un elemento de una colección.
+
+3. .get(): Este método se utiliza para acceder a un elemento específico de una colección o 
+estructura de datos. Su funcionalidad varía según las especificaciones del programa que se está 
+construyendo.
+
+4. .set(): El método "set" se utiliza para modificar o actualizar un elemento o dato en una 
+colección o estructura de datos.
+
+5. .size(): La función principal de este método es proporcionar la cantidad de elementos 
+contenidos en una colección.
+
+6. isEmpty(): Este método sirve para verificar si una colección o estructura de datos está vacía, 
+es decir, que no contiene ningún elemento. Devuelve un valor booleano que indica si la 
+estructura de datos está vacía.
